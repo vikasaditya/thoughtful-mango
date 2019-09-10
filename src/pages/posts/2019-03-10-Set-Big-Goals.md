@@ -3,6 +3,7 @@ title: Why You Should Set Big Goals
 date: '2019-03-10'
 thumb_img_path: images/12_thumb.jpg
 content_img_path: images/12.jpg
+author:'vikasA'
 excerpt: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
   turpis egestas.
